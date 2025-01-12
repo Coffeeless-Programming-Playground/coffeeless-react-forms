@@ -1,6 +1,6 @@
 {
   "name": "coffeeless-form",
-  "version": "2.2.3",
+  "version": "2.3.1",
   "description": "Form validation made easy for React apps",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
