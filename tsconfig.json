@@ -7,7 +7,6 @@
       "dom.iterable",
       "esnext"
     ],
-    "allowJs": true,
     "skipLibCheck": true,
     "esModuleInterop": true,
     "allowSyntheticDefaultImports": true,
@@ -24,5 +23,6 @@
     "strictNullChecks": true,
     "noEmit": false
   },
-  "include": ["src", "typings.d.ts"]
+  "include": ["src", "typings.d.ts"],
+  "exclude": ["**/*.spec.ts"]
 }
