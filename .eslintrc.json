@@ -7,7 +7,7 @@
   "extends": ["standard-with-typescript", "plugin:react/recommended"],
   "plugins": ["react"],
   "parserOptions": {
-    "project": "./tsconfig.json"
+    "project": "./tsconfig.spec.json"
   },
   "overrides": [
     {
