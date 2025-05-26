@@ -1,4 +1,4 @@
-import { FieldValidation } from '../protocols'
+import { FieldValidation } from 'coffeeless-validator'
 
 export const recursivelyComputeValidation = (
   deepStateChild: any,
@@ -37,7 +37,8 @@ export const stateSchemaUpdateDeepComparison = (
       typeof (initialValues as any)[key].length === 'number' &&
       state !== undefined &&
       schema !== undefined
-    ) { // arrays can be added dynamically, it's necessary to deeply map both objects to update the state
+    ) {
+      // arrays can be added dynamically, it's necessary to deeply map both objects to update the state
       state[key] = [...schema[key]]
     } else {
       if (typeof (initialValues as any)[key] === 'object') {

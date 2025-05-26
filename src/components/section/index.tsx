@@ -1,4 +1,4 @@
-import { AuxProps } from 'ts/interfaces'
+import { AuxProps } from '../../ts/interfaces'
 
 type Props = {
   col: 'col-md-6' | 'col-md-12'

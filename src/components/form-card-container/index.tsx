@@ -1,4 +1,4 @@
-import { AuxProps } from 'ts/interfaces'
+import { AuxProps } from '../../ts/interfaces'
 
 type Props = {
   cardTitle: string

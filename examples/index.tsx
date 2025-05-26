@@ -1,8 +1,8 @@
-import React, { ChangeEvent, useEffect, useState } from 'react'
-import { createRoot } from 'react-dom/client'
-import { Builder, CForm, CFormCardContainer, CFormGroup, CInput, CSection } from '.';
+import React, { ChangeEvent, useEffect, useState } from 'react';
+import { Builder, CFormCardContainer, CFormGroup, CSection, CForm, CInput, CoffeelessWrapper } from 'coffeeless-form'
+import { createRoot } from 'react-dom/client';
 import './css/main.css';
-import { CoffeelessWrapper } from './validator'
+
 
 type Props = {
   onChange: any

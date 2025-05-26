@@ -8,3 +8,4 @@ src\presentation\css
 *.js
 **/*d.ts
 src/index.tsx
+examples/
