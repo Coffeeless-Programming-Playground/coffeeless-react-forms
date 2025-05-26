@@ -1,6 +1,6 @@
 {
   "name": "coffeeless-form",
-  "version": "2.4.0",
+  "version": "2.4.1",
   "description": "Form validation made easy for React apps",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -57,6 +57,6 @@
     "package.json"
   ],
   "dependencies": {
-    "coffeeless-validator": "^1.0.0"
+    "coffeeless-validator": "^1.0.1"
   }
 }
