@@ -1,21 +1,25 @@
 {
-  "name": "coffeeless-form",
-  "version": "2.4.1",
+  "name": "coffeeless-react-forms",
   "description": "Form validation made easy for React apps",
+  "version": "2.4.1",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
-    "build": "npm run clean && tsc --p tsconfig.json && npm run copy-files",
+    "build": "npm run clean && tsc --p tsconfig.build.json && npm run copy-files",
     "test": "jest --passWithNoTests --no-cache --runInBand",
-    "test:staged": "npm test -- --findRelatedTests",
+    "test:unit": "npm test -- --watch -c jest-unit.config.js",
+    "test:integration": "npm test -- --watch -c jest-integration.config.js",
+    "test:staged": "npm test --findRelatedTests",
     "test:watch": "npm test -- --watch --no-cache",
+    "test:ci": "npm test -- --coverage",
+    "test:debug": "npm test key-matches.spec.ts",
     "prepare": "husky install",
     "clean": "rimraf dist/",
     "copy-files": "copyfiles -u 1 src/css/*.css dist/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DiegoSalas27/CoffeelessForm.git"
+    "url": "git+https://github.com/Coffeeless-Programming-Playground/coffeeless-react-forms.git"
   },
   "keywords": [
     "form",
@@ -26,9 +30,9 @@
   "author": "Diego Salas Noain <dominicsc2hs@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DiegoSalas27/CoffeelessForm/issues"
+    "url": "https://github.com/Coffeeless-Programming-Playground/coffeeless-react-forms/issues"
   },
-  "homepage": "https://github.com/DiegoSalas27/CoffeelessForm#readme",
+  "homepage": "https://github.com/Coffeeless-Programming-Playground/coffeeless-react-forms#readme",
   "devDependencies": {
     "@faker-js/faker": "^6.0.0-alpha.7",
     "@types/jest": "^27.4.1",
