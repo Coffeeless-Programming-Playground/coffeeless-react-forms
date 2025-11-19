@@ -1,4 +1,4 @@
-import { FieldValidation } from 'coffeeless-validator'
+import { FieldValidation } from 'coffeeless-react-validators'
 
 export const recursivelyComputeValidation = (
   deepStateChild: any,

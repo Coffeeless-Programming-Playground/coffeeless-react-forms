@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { FieldValidation } from 'coffeeless-validator'
+import { FieldValidation } from 'coffeeless-react-validators'
 import {
   recursivelyComputeValidation,
   stateSchemaUpdateDeepComparison,

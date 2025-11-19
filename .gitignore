@@ -6,4 +6,4 @@ dist
 examples/**/package-lock.json
 examples/**/*/dist
 examples/**/*/node_modules
-coffeeless-validator*
+coffeeless-react-validators*

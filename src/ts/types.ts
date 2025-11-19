@@ -1,4 +1,4 @@
-import { FieldValidation } from 'coffeeless-validator'
+import { FieldValidation } from 'coffeeless-react-validators'
 
 // map conditional types: https://stackoverflow.com/questions/49138332/typescript-mapped-types-flag-type-with-nesting
 export type FieldErrorMapping<T> = {
