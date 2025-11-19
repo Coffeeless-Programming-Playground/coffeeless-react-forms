@@ -1,5 +1,5 @@
 export { CoffeelessWrapper, useCoffeelessHandler, useCoffeelessValidator } from './core'
-export { ValidationBuilder as Builder } from 'coffeeless-validator'
+export { ValidationBuilder as Builder } from 'coffeeless-react-validators'
 export {
   CForm,
   CFormCardContainer,

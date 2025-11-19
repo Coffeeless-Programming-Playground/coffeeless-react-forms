@@ -61,6 +61,6 @@
     "package.json"
   ],
   "dependencies": {
-    "coffeeless-validator": "^1.0.1"
+    "coffeeless-react-validators": "^1.0.1"
   }
 }
