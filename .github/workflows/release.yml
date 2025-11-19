@@ -5,6 +5,11 @@ on:
       - main
   release:
     types: [published]
+
+permissions:
+  contents: write
+  packages: write
+  
 jobs:
   release:
     runs-on: ubuntu-latest
