@@ -1,4 +1,13 @@
-# 2.5.0 (2025-11-19)
+# [2.6.0](https://github.com/Coffeeless-Programming-Playground/coffeeless-react-forms/compare/v2.5.0...v2.6.0) (2026-01-15)
+
+
+### Features
+
+* change package scope ([451cb3e](https://github.com/Coffeeless-Programming-Playground/coffeeless-react-forms/commit/451cb3ed1332df838a58ec3c0de79c7aaaf37427))
+
+
+
+# [2.5.0](https://github.com/Coffeeless-Programming-Playground/coffeeless-react-forms/compare/4c1f0466aafdfb38ed4265b8391c7cd376990df9...v2.5.0) (2025-11-19)
 
 
 ### Bug Fixes
