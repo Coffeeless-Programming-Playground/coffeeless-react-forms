@@ -1,3 +1,12 @@
+# [2.8.0](https://github.com/Coffeeless-Programming-Playground/coffeeless-react-forms/compare/v2.7.0...v2.8.0) (2026-01-15)
+
+
+### Features
+
+* add lgpl license ([6e8c745](https://github.com/Coffeeless-Programming-Playground/coffeeless-react-forms/commit/6e8c745b79e2500942be3db053d9773619555027))
+
+
+
 # [2.7.0](https://github.com/Coffeeless-Programming-Playground/coffeeless-react-forms/compare/v2.6.0...v2.7.0) (2026-01-15)
 
 
