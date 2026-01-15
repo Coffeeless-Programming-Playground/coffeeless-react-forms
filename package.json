@@ -1,7 +1,7 @@
 {
   "name": "@cofp/coffeeless-react-forms",
   "description": "Form validation made easy for React apps",
-  "version": "2.6.0",
+  "version": "2.7.0",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {

@@ -1,3 +1,12 @@
+# [2.7.0](https://github.com/Coffeeless-Programming-Playground/coffeeless-react-forms/compare/v2.6.0...v2.7.0) (2026-01-15)
+
+
+### Features
+
+* make npm access public ([c1a0a2f](https://github.com/Coffeeless-Programming-Playground/coffeeless-react-forms/commit/c1a0a2ff8739e72cdbdea245a823cba17872a429))
+
+
+
 # [2.6.0](https://github.com/Coffeeless-Programming-Playground/coffeeless-react-forms/compare/v2.5.0...v2.6.0) (2026-01-15)
 
 
