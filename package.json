@@ -1,5 +1,5 @@
 {
-  "name": "coffeeless-react-forms",
+  "name": "@cofp/coffeeless-react-forms",
   "description": "Form validation made easy for React apps",
   "version": "2.5.0",
   "main": "dist/index.js",
