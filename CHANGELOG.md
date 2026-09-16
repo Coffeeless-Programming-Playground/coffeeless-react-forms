@@ -1,3 +1,12 @@
+## [2.8.1](https://github.com/Coffeeless-Programming-Playground/coffeeless-react-forms/compare/v2.8.0...v2.8.1) (2026-09-16)
+
+
+### Bug Fixes
+
+* css syntax ([f857f34](https://github.com/Coffeeless-Programming-Playground/coffeeless-react-forms/commit/f857f342f7b36ca7ad7e4c347d7fd2d18b54beec))
+
+
+
 # [2.8.0](https://github.com/Coffeeless-Programming-Playground/coffeeless-react-forms/compare/v2.7.0...v2.8.0) (2026-01-15)
 
 
