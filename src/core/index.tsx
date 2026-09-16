@@ -1,11 +1,12 @@
-import React, { useState } from 'react'
-import { FieldValidation } from 'coffeeless-react-validators'
 import {
   recursivelyComputeValidation,
   stateSchemaUpdateDeepComparison,
   objectIterator
 } from '../utils'
 import '../css/main.css';
+
+import React, { useState } from 'react'
+import { FieldValidation } from '@cofp/coffeeless-react-validators'
 
 // map conditional types: https://stackoverflow.com/questions/49138332/typescript-mapped-types-flag-type-with-nesting
 type FieldErrorMapping<T> = {

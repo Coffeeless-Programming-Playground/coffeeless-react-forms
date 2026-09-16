@@ -47,6 +47,7 @@
     "jest": "^27.5.1",
     "jest-mock-extended": "^3.0.1",
     "lint-staged": "^15.1.0",
+    "prettier": "^3.9.6",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "rimraf": "^6.0.1",
@@ -61,6 +62,6 @@
     "package.json"
   ],
   "dependencies": {
-    "coffeeless-react-validators": "^1.2.0"
+    "@cofp/coffeeless-react-validators": "^1.5.0"
   }
 }
